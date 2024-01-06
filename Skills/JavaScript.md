@@ -1,86 +1,86 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - arrow function: 🖐️ used
+  - async function: 👂 heard
+  - call: 👂 heard
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 🖐️ used
   - destructuring
   - generator
-  - iterator
-  - async generator
-  - async iterator
+  - iterator: 👂 heard
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
   - chaining
   - optional chaining
   - IIFE
-  - global
+  - global: 🖐️ used
   - globalThis
-  - window
-  - getters and setters
+  - window: 🖐️ used
+  - getters and setters: 🖐️ used
   - __proto__
   - prototype
   - equality operators
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void: 🖐️ used
   - yield
-  - await
+  - await: 👂 heard
   - template literal
   - strict mode
-  - delete
-  - in
-  - super
+  - delete: 👂 heard
+  - in: 👂 heard
+  - super: 🎓 known
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
   - for await
   - throw
-  - break
-  - continue
+  - break: 🖐️ used
+  - continue: 🖐️ used
   - import
   - export
   - label
   - try..catch
   - switch
-  - class
+  - class: 🖐️ used
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - default parameters: 🖐️ used
+  - functional object: 🖐️ used
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - mixin
   - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - typed arrays: 🖐️ used
+  - Map: 🖐️ used
+  - Set: 🖐️ used
+  - undefined: 🖐️ used
+  - null: 🖐️ used
   - Proxy
   - weak collections
-  - timers
+  - timers: 🖐️ used
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date: 🖐️ used
+  - BigInt: 🖐️ used
 - Infrastructure
   - V8
   - Node.js

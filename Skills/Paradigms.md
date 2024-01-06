@@ -1,14 +1,14 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🎓 known
+  - Procedural programming: 🙋 explained
   - Imperative programming: 🎓 known
-  - Structured programming: 👂 heard
+  - Structured programming: 🎓 known
   - Non-structured programming
-  - Functional programming: 👂 heard
+  - Functional programming: 🎓 known
   - Prototype-based programming
-  - Object-oriented programming: 🖐️ used
-  - Object-based programming: 👂 heard
+  - Object-oriented programming: 🙋 explained
+  - Object-based programming: 🎓 known
   - Generic programming
   - Concurrent computing
   - Asyncronous programming
@@ -21,40 +21,40 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor: 🎓 known
-  - new: 🎓 known
-  - Static method: 🎓 known
-  - Method: 🎓 known
+  - constructor: 🙋 explained
+  - new: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
   - Async method
-  - Getters, Setters: 🎓 known
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
-  - Field declarations: 👂 heard
-  - Inheritance: 🎓 known
-  - Parent class: 🎓 known
-  - Polymorphism: 👂 heard
-  - Abstract class: 👂 heard
-  - Interface: 👂 heard
-  - Encapsulation
-  - Hidden class
+  - Getters, Setters: 🙋 explained
+  - Public fields:🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 👂 heard
+  - Hidden class: 👂 heard
   - Object form
-  - instance: 👂 heard
+  - instance: 🙋 explained
   - Introspection
-  - Reflection: 👂 heard
+  - Reflection: 🙋 explained
 - Patterns
-  - Singleton: 👂 heard
-  - Factory Method: 👂 heard
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
+  - Singleton: 🙋 explained
+  - Factory Method: 🙋 explained
+  - Abstract Factory🙋 explained
+  - Adapter: 👂 heard
+  - Observer: 🖐️ used
+  - Strategy: 👂 heard
   - Facade
   - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
+  - Chain of Responsibility: 🖐️ used
+  - Command: 👂 heard
+  - Iterator: 🖐️ used
   - State
-  - Bridge
+  - Bridge: 👂 heard
   - Builder
   - Prototype
   - Composite

@@ -6,7 +6,7 @@
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -26,7 +26,7 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments: 👂 heard
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID: 👂 heard
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,19 +86,19 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling
+  - Long polling: 👂 heard
   - REST
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing: 👂 heard
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
@@ -118,14 +118,14 @@
   - Application configuring
   - Testing
   - CI/CD
-  - Readable
-  - Writable
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - back pressure
   - Buffer
   - Console
   - Inspector
-  - Reliability
+  - Reliability: 👂 heard
   - Quality
   - Availability
   - Flexibility
@@ -147,7 +147,7 @@
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
+  - Memory leaks: 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings

@@ -26,7 +26,7 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments: 👂 heard
+  - Command line arguments: 🖐️ used
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -65,15 +65,15 @@
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
-  - Dependency injection
+  - Dependency injection: 🎓 known
   - GRASP
-  - SOLID: 👂 heard
+  - SOLID: 🖐️ used
   - GoF patterns
   - Distributed systems
   - Highload applications
   - Clean architecture
   - DDD
-  - Message Queue
+  - Message Queue: 🖐️ used
   - CQS
   - CQRS
   - Event sourcing
@@ -90,19 +90,19 @@
   - TCP/SSL: 🎓 known
   - UDP: 🎓 known
   - TLS
-  - Websocket: 👂 heard
-  - SSE
-  - HTTP/3 (QUIC)
-  - Long polling: 👂 heard
+  - Websocket: 🖐️ used
+  - SSE: 🎓 known
+  - HTTP/3 (QUIC): 🎓 known
+  - Long polling: 🎓 known
   - REST
   - RPC
-  - Routing: 👂 heard
-  - DoS: 👂 heard
-  - DDoS: 👂 heard
+  - Routing: 🎓 known
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 🎓 known
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -114,21 +114,21 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
+  - Logging: 🖐️ used
+  - Application configuring: 🖐️ used
+  - Testing: 🖐️ used
   - CI/CD
   - Readable: 👂 heard
   - Writable: 👂 heard
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console: 🎓 known
   - Inspector
-  - Reliability: 👂 heard
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
 - Data access
   - Data access layer
   - Repository
@@ -147,7 +147,7 @@
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks: 👂 heard
+  - Memory leaks: 🖐️ used
   - Resource leaks
   - Data race
 - Integrations and bindings

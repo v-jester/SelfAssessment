@@ -2,10 +2,10 @@
 
 - Theory
   - Event loop: 🎓 know
-  - try..catch: 🖐️ used
+  - try..catch: 🙋 explained
   - Non-blocking
   - Async I/O
-  - Thread pool: 👂 heard
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -22,33 +22,33 @@
   - Thread: 👂 heard
   - Process: 👂 heard
 - Async contracts
-  - Callbacks: 👂 heard
-  - Callback-last-error-first: 👂 heard
+  - Callbacks: 🎓 known
+  - Callback-last-error-first: 🎓 known
   - Thenable
   - Promise
-  - Async/await: 👂 heard
-  - Future: 👂 heard
+  - Async/await: 🎓 known
+  - Future: 🎓 known
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event: 👂 heard
-  - Coroutine: 👂 heard
+  - Event: : 🖐️ used
+  - Coroutine: 🎓 known
   - Goroutine
-  - Signal: 👂 heard
-  - Stream
+  - Signal: 🖐️ used
+  - Stream: 🎓 known
   - Chain of responsibility
   - Middleware
   - Locks
 - Async adapters and utils
   - callbackify
-  - promisify
+  - promisify: 👂 heard
   - asyncify
   - callbacks compose
   - async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer
+  - Observable/Observer: 🎓 known
   - Readable
   - Writable
   - Transform
@@ -59,23 +59,23 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers: 👂 heard
   - setImmediate
   - nextTick
   - AbortController
-  - AbortSignal
+  - AbortSignal: 👂 heard
   - Promise unhandled rejection
   - Promise double resolve
   - child_process
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization: 👂 heard
   - promisify
   - callbackify
   - AsyncLocalStorage
